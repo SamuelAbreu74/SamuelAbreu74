@@ -169,6 +169,10 @@ Meu objetivo é continuar evoluindo de projetos acadêmicos e experimentais para
   <a href="https://github.com/SamuelAbreu74">
     <img src="https://img.shields.io/badge/GitHub-SamuelAbreu74-181717?style=for-the-badge&logo=github" />
   </a>
+<br>
+  <a href="https://www.linkedin.com/in/samuel-abreu-99423737b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Samuel%20de%20Abreu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
