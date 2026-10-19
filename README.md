@@ -75,6 +75,16 @@ Atualmente, estou focado em evoluir minhas habilidades de engenharia de software
 
 ## Projetos em destaque
 
+### Menuza (Cardápio Web)
+
+Aplicação web que permite a restaurantes criarem e gerenciarem seus próprios cardápios digitais e disponibilizá-los aos clientes por meio de uma página pública acessível via QR Code.
+
+Tecnologias: Next.js, React, TypeScript, Tailwind CSS, Node.js / Nest.js, PostgreSQL, Docker.
+
+[Ver projeto →](https://github.com/SamuelAbreu74/Menuza)
+
+---
+
 ### Agenda Dev
 
 Aplicação web full-stack desenvolvida para um desafio técnico, com foco no gerenciamento de pessoas, empresas e informações relacionadas.
