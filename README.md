@@ -2,7 +2,7 @@
 
 **Desenvolvedor de Software | Desenvolvimento Web | Full Stack**
 
-Sou desenvolvedor de software freelancer e formado em **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento de aplicações web.
+Sou desenvolvedor de software formado em **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento de aplicações web.
 
 Utilizo este espaço para compartilhar meus projetos, estudos e experimentos, principalmente nas áreas de **desenvolvimento web, APIs, aplicações full-stack e bancos de dados**.
 
@@ -12,7 +12,7 @@ Atualmente, estou focado em evoluir minhas habilidades de engenharia de software
 
 ## Sobre mim
 
-- Desenvolvedor de software freelancer
+- Desenvolvedor de software
 - Formação em Análise e Desenvolvimento de Sistemas
 - Foco em desenvolvimento web e aplicações full-stack
 - Interesse em arquitetura de software, APIs e bancos de dados
